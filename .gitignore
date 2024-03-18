@@ -3,4 +3,5 @@
 /.lsp
 /.shadow-cljs
 /node_modules
-/resources/js/cljs-runtime
+/resources/js/*
+/resources/css/bundle.css
