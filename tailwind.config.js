@@ -4,5 +4,11 @@ module.exports = {
     './resources/js/app.js',
   ],
   plugins: [],
+  mode: 'jit',
+  purge: {
+    content: [
+      './src/com/example/**/*.cljs'
+    ]
+  },
 }
 
