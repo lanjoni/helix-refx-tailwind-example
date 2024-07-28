@@ -3,7 +3,6 @@
    ["react" :as react]
    ["react-dom/client" :as react-dom-client]
    [helix.core :refer [$]]
-   [helix.dom :as hd]
    [refx.alpha :as refx]
    [com.example.views.landing :refer [landing]]))
 
